@@ -1,6 +1,6 @@
-# Lip Reading CNN-LSTM Model
+# Lip Reader
 
-- Utilized TensorFlow, Keras, OpenCV, Matplotlib, and gdown to create a deep neural network with Conv3D and LSTM layers, designed for video and text sequence analysis (lip reading)
+- Utilized Python, Tensorflow, Keras, OpenCV, NumPy, Matplotlib, Scikit-Learn, and gdown to create a deep neural network with Conv3D and LSTM layers, designed for video and text sequence analysis (lip reading)
 
 ## Key Features
 
